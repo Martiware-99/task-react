@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Martiware-99/task-react.git/static/js/main.2df05679.chunk.js",
+    "main.js.map": "/Martiware-99/task-react.git/static/js/main.2df05679.chunk.js.map",
+    "runtime-main.js": "/Martiware-99/task-react.git/static/js/runtime-main.fc974197.js",
+    "runtime-main.js.map": "/Martiware-99/task-react.git/static/js/runtime-main.fc974197.js.map",
+    "static/js/2.9b596495.chunk.js": "/Martiware-99/task-react.git/static/js/2.9b596495.chunk.js",
+    "static/js/2.9b596495.chunk.js.map": "/Martiware-99/task-react.git/static/js/2.9b596495.chunk.js.map",
+    "index.html": "/Martiware-99/task-react.git/index.html",
+    "static/js/2.9b596495.chunk.js.LICENSE.txt": "/Martiware-99/task-react.git/static/js/2.9b596495.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc974197.js",
+    "static/js/2.9b596495.chunk.js",
+    "static/js/main.2df05679.chunk.js"
+  ]
+}
